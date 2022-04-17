@@ -1,0 +1,19 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.bbb{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    border: solid salmon 2px;
+    background-color: rgb(247, 210, 210);
+}
+.aaa{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 30px;
+    border: solid rgb(57, 57, 57) 2px;
+    background-color: rgb(184, 184, 184);
+}
